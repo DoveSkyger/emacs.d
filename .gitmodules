@@ -1,0 +1,48 @@
+[include]
+	path = .gitremotes
+	path = .borgconfig
+[submodule "auto-compile"]
+	path = lib/auto-compile
+	url = git@github.com:emacscollective/auto-compile.git
+[submodule "borg"]
+	path = lib/borg
+	url = git@github.com:emacscollective/borg.git
+[submodule "closql"]
+	path = lib/closql
+	url = git@github.com:magit/closql.git
+[submodule "compat"]
+	path = lib/compat
+	url = git@github.com:emacs-compat/compat.git
+[submodule "dash"]
+	path = lib/dash
+	url = git@github.com:magnars/dash.el.git
+[submodule "diff-hl"]
+	path = lib/diff-hl
+	url = git@github.com:dgutov/diff-hl.git
+[submodule "emacsql"]
+	path = lib/emacsql
+	url = git@github.com:magit/emacsql.git
+[submodule "epkg"]
+	path = lib/epkg
+	url = git@github.com:emacscollective/epkg.git
+[submodule "exec-path-from-shell"]
+	path = lib/exec-path-from-shell
+	url = https://github.com/purcell/exec-path-from-shell
+[submodule "git-modes"]
+	path = lib/git-modes
+	url = git@github.com:magit/git-modes.git
+[submodule "llama"]
+	path = lib/llama
+	url = https://git.sr.ht/~tarsius/llama
+[submodule "magit"]
+	path = lib/magit
+	url = git@github.com:magit/magit.git
+[submodule "transient"]
+	path = lib/transient
+	url = git@github.com:magit/transient.git
+[submodule "use-package"]
+	path = lib/use-package
+	url = git@github.com:jwiegley/use-package.git
+[submodule "with-editor"]
+	path = lib/with-editor
+	url = git@github.com:magit/with-editor.git
