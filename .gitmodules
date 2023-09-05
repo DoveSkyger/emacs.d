@@ -43,12 +43,24 @@
 [submodule "magit"]
 	path = lib/magit
 	url = git@github.com:magit/magit.git
+[submodule "mixed-pitch"]
+	path = lib/mixed-pitch
+	url = https://gitlab.com/jabranham/mixed-pitch
 [submodule "no-littering"]
 	path = lib/no-littering
 	url = https://github.com/emacscollective/no-littering
+[submodule "page-break-lines"]
+	path = lib/page-break-lines
+	url = https://github.com/purcell/page-break-lines
 [submodule "transient"]
 	path = lib/transient
 	url = git@github.com:magit/transient.git
+[submodule "treesit-auto"]
+	path = lib/treesit-auto
+	url = https://github.com/renzmann/treesit-auto
+[submodule "vundo"]
+	path = lib/vundo
+	url = https://github.com/casouri/vundo
 [submodule "with-editor"]
 	path = lib/with-editor
 	url = git@github.com:magit/with-editor.git
