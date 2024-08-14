@@ -3,31 +3,31 @@
 	path = .borgconfig
 [submodule "auto-compile"]
 	path = lib/auto-compile
-	url = git@github.com:emacscollective/auto-compile.git
+	url = https://github.com/emacscollective/auto-compile
 [submodule "borg"]
 	path = lib/borg
-	url = git@github.com:emacscollective/borg.git
+	url = https://github.com/emacscollective/borg
 [submodule "closql"]
 	path = lib/closql
-	url = git@github.com:magit/closql.git
+	url = https://github.com/magit/closql.git
 [submodule "compat"]
 	path = lib/compat
-	url = git@github.com:emacs-compat/compat.git
+	url = https://github.com/emacs-compat/compat
 [submodule "dash"]
 	path = lib/dash
-	url = git@github.com:magnars/dash.el.git
+	url = https://github.com/magnars/dash.el
 [submodule "diff-hl"]
 	path = lib/diff-hl
-	url = git@github.com:dgutov/diff-hl.git
+	url = https://github.com/dgutov/diff-hl
 [submodule "diminish"]
 	path = lib/diminish
 	url = https://github.com/myrjola/diminish.el
 [submodule "emacsql"]
 	path = lib/emacsql
-	url = git@github.com:magit/emacsql.git
+	url = https://github.com/magit/emacsql
 [submodule "epkg"]
 	path = lib/epkg
-	url = git@github.com:emacscollective/epkg.git
+	url = https://github.com/emacscollective/epkg
 [submodule "exec-path-from-shell"]
 	path = lib/exec-path-from-shell
 	url = https://github.com/purcell/exec-path-from-shell
@@ -36,13 +36,13 @@
 	url = https://gitlab.com/koral/gcmh
 [submodule "git-modes"]
 	path = lib/git-modes
-	url = git@github.com:magit/git-modes.git
+	url = https://github.com/magit/git-modes
 [submodule "llama"]
 	path = lib/llama
-	url = https://git.sr.ht/~tarsius/llama
+	url = https://github.com/tarsius/llama
 [submodule "magit"]
 	path = lib/magit
-	url = git@github.com:magit/magit.git
+	url = https://github.com/magit/magit
 [submodule "mixed-pitch"]
 	path = lib/mixed-pitch
 	url = https://gitlab.com/jabranham/mixed-pitch
@@ -54,7 +54,7 @@
 	url = https://github.com/purcell/page-break-lines
 [submodule "transient"]
 	path = lib/transient
-	url = git@github.com:magit/transient.git
+	url = https://github.com/magit/transient
 [submodule "treesit-auto"]
 	path = lib/treesit-auto
 	url = https://github.com/renzmann/treesit-auto
@@ -63,4 +63,4 @@
 	url = https://github.com/casouri/vundo
 [submodule "with-editor"]
 	path = lib/with-editor
-	url = git@github.com:magit/with-editor.git
+	url = https://github.com/magit/with-editor
