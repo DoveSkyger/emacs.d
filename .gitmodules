@@ -3,64 +3,64 @@
 	path = .borgconfig
 [submodule "auto-compile"]
 	path = lib/auto-compile
-	url = https://github.com/emacscollective/auto-compile
+	url = git@github.com:emacscollective/auto-compile.git
 [submodule "borg"]
 	path = lib/borg
-	url = https://github.com/emacscollective/borg
+	url = git@github.com:emacscollective/borg.git
 [submodule "closql"]
 	path = lib/closql
-	url = https://github.com/magit/closql.git
+	url = git@github.com:magit/closql.git
 [submodule "compat"]
 	path = lib/compat
-	url = https://github.com/emacs-compat/compat
+	url = git@github.com:emacs-compat/compat.git
 [submodule "dash"]
 	path = lib/dash
-	url = https://github.com/magnars/dash.el
+	url = git@github.com:magnars/dash.el.git
 [submodule "diff-hl"]
 	path = lib/diff-hl
-	url = https://github.com/dgutov/diff-hl
+	url = git@github.com:dgutov/diff-hl.git
 [submodule "diminish"]
 	path = lib/diminish
-	url = https://github.com/myrjola/diminish.el
+	url = git@github.com:myrjola/diminish.el.git
 [submodule "emacsql"]
 	path = lib/emacsql
-	url = https://github.com/magit/emacsql
+	url = git@github.com:magit/emacsql.git
 [submodule "epkg"]
 	path = lib/epkg
-	url = https://github.com/emacscollective/epkg
+	url = git@github.com:emacscollective/epkg.git
 [submodule "exec-path-from-shell"]
 	path = lib/exec-path-from-shell
-	url = https://github.com/purcell/exec-path-from-shell
+	url = git@github.com:purcell/exec-path-from-shell.git
 [submodule "gcmh"]
 	path = lib/gcmh
-	url = https://gitlab.com/koral/gcmh
+	url = git@gitlab.com:koral/gcmh.git
 [submodule "git-modes"]
 	path = lib/git-modes
-	url = https://github.com/magit/git-modes
+	url = git@github.com:magit/git-modes.git
 [submodule "llama"]
 	path = lib/llama
-	url = https://github.com/tarsius/llama
+	url = git@github.com:tarsius/llama.git
 [submodule "magit"]
 	path = lib/magit
-	url = https://github.com/magit/magit
+	url = git@github.com:magit/magit.git
 [submodule "mixed-pitch"]
 	path = lib/mixed-pitch
-	url = https://gitlab.com/jabranham/mixed-pitch
+	url = git@gitlab.com:jabranham/mixed-pitch.git
 [submodule "no-littering"]
 	path = lib/no-littering
-	url = https://github.com/emacscollective/no-littering
+	url = git@github.com:emacscollective/no-littering.git
 [submodule "page-break-lines"]
 	path = lib/page-break-lines
-	url = https://github.com/purcell/page-break-lines
+	url = git@github.com:purcell/page-break-lines.git
 [submodule "transient"]
 	path = lib/transient
-	url = https://github.com/magit/transient
+	url = git@github.com:magit/transient.git
 [submodule "treesit-auto"]
 	path = lib/treesit-auto
-	url = https://github.com/renzmann/treesit-auto
+	url = git@github.com:renzmann/treesit-auto.git
 [submodule "vundo"]
 	path = lib/vundo
-	url = https://github.com/casouri/vundo
+	url = git@github.com:casouri/vundo.git
 [submodule "with-editor"]
 	path = lib/with-editor
-	url = https://github.com/magit/with-editor
+	url = git@github.com:magit/with-editor.git
